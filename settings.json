@@ -1,0 +1,52 @@
+[
+    {
+        "type": "bool",
+        "title": "Default Settings",
+        "desc": "Reset All Settings.",
+        "section": "TTS Settings",
+        "key": "default_settings"
+    },
+    {
+        "type": "title",
+        "title": "Appearance"
+    },
+    {
+        "type": "bool",
+        "title": "Dark Mode",
+        "desc": "Toggle Dark Mode",
+        "section": "TTS Settings",
+        "key": "dark_mode"
+    },
+    {
+        "type": "numeric",
+        "title": "Font Size",
+        "desc": "Size of the font used in the textarea",
+        "section":"TTS Settings",
+        "key": "font_size" 
+    },
+    {
+        "type": "title",
+        "title": "Speech"
+    },
+    {
+        "type": "numeric",
+        "title": "Speech Rate",
+        "desc": "The speed of the speech.",
+        "section": "TTS Settings",
+        "key": "speech_rate"
+    },
+    {
+        "type": "bool",
+        "title": "Female Voicer",
+        "desc": "The select voice of the tts engine. If its 'on', the voice is of female, else male.",
+        "section": "TTS Settings",
+        "key": "voice_gender"
+    },
+    {
+        "type": "path",
+        "title": "File Path",
+        "desc": "Path to the save the audio file, NOTE: THE PATH SHOULD BE A DIRECTORY!",
+        "section": "TTS Settings",
+        "key": "path"
+    }
+]
