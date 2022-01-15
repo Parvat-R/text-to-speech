@@ -1,0 +1,27 @@
+2022-01-05 17:07:53,365 [Logger      ] Record log in C:\Users\Admini\.kivy\logs\kivy_22-01-05_0.txt
+2022-01-05 17:07:53,363 [deps        ] Successfully imported "kivy_deps.angle" 0.3.0
+2022-01-05 17:07:53,378 [deps        ] Successfully imported "kivy_deps.glew" 0.3.0
+2022-01-05 17:07:53,379 [deps        ] Successfully imported "kivy_deps.sdl2" 0.3.1
+2022-01-05 17:07:53,382 [Kivy        ] v2.0.0
+2022-01-05 17:07:53,384 [Kivy        ] Installed at "D:\Python3.9.7\lib\site-packages\kivy\__init__.py"
+2022-01-05 17:07:53,385 [Python      ] v3.9.7 (tags/v3.9.7:1016ef3, Aug 30 2021, 20:19:38) [MSC v.1929 64 bit (AMD64)]
+2022-01-05 17:07:53,388 [Python      ] Interpreter at "D:\Python3.9.7\python.exe"
+2022-01-05 17:07:56,808 [Factory     ] 186 symbols loaded
+2022-01-05 17:07:59,974 [Image       ] Providers: img_tex, img_dds, img_sdl2 (img_pil, img_ffpyplayer ignored)
+2022-01-05 17:08:01,961 [Text        ] Provider: sdl2
+2022-01-05 17:08:03,283 [Window      ] Provider: sdl2
+2022-01-05 17:08:08,857 [GL          ] Using the "OpenGL" graphics system
+2022-01-05 17:08:08,934 [GL          ] GLEW initialization succeeded
+2022-01-05 17:08:08,948 [GL          ] Backend used <glew>
+2022-01-05 17:08:08,962 [GL          ] OpenGL version <b'4.5.13447 Compatibility Profile Context 16.300.2201.0'>
+2022-01-05 17:08:08,963 [GL          ] OpenGL vendor <b'ATI Technologies Inc.'>
+2022-01-05 17:08:08,964 [GL          ] OpenGL renderer <b'AMD Radeon(TM) R4 Graphics'>
+2022-01-05 17:08:08,991 [GL          ] OpenGL parsed version: 4, 5
+2022-01-05 17:08:08,993 [GL          ] Shading version <b'4.50'>
+2022-01-05 17:08:09,002 [GL          ] Texture max size <16384>
+2022-01-05 17:08:09,014 [GL          ] Texture max units <32>
+2022-01-05 17:08:09,665 [Window      ] auto add sdl2 input provider
+2022-01-05 17:08:09,765 [Window      ] virtual keyboard not allowed, single mode, not docked
+2022-01-05 17:08:14,099 [GL          ] NPOT texture support is available
+2022-01-05 17:08:14,104 [Base        ] Start application main loop
+2022-01-05 17:10:06,116 [Base        ] Leaving application in progress...
